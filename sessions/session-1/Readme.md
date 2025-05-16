@@ -29,10 +29,10 @@ Now visit [http://localhost:8000](http://localhost:8000) and click around (start
 
 | File                | What to explore                                                                        |
 | ------------------- | -------------------------------------------------------------------------------------- |
-| **starter.html**    | starter html file for you, having tailwindcss added. oh yes.                           |
-| **index.html**      | drag a cursor over funky coloured cards; watch hover animation & rounded-corner scale. |
-| **video-demo.html** | double-click the video to pop a friendly alert in Farsi (سلام !).                       |
-| **js/main.js**      | a *single* helper, intentionally simple—add your own experiments here.                 |
-| **assignment.md**   | your research task for next week.                                                      |
+| **[starter.html](./starter.html)**    | starter html file for you, having tailwindcss added. oh yes.                           |
+| **[index.html](./index.html)**      | drag a cursor over funky coloured cards; watch hover animation & rounded-corner scale. |
+| **[video-demo.html](video-demo.html)** | double-click the video to pop a friendly alert in Farsi (سلام !).                       |
+| **[js/main.js](./js/main.js)**      | a *single* helper, intentionally simple—add your own experiments here.                 |
+| **[assignment.md](./assignment.md)**   | your research task for next week.                                                      |
 
 Have fun & DM me if you get stuck. 🙂
