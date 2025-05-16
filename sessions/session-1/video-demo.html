@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Session 1 · Video oncanplay</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center gap-10 bg-slate-50">
+
+  <h1 class="text-3xl font-semibold text-slate-800">Video Event Demo</h1>
+
+  <video
+    class="w-80 rounded-lg shadow-xl transition-transform duration-300 hover:scale-105"
+    controls
+    ondblclick="window.flash('سلام 🎬')"
+    oncanplay="console.log('Video can play 👌');"
+  >
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
+    Sorry, your browser doesn’t support embedded videos.
+  </video>
+
+  <p class="text-gray-600 text-sm">Double-click the video for a greeting!</p>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
