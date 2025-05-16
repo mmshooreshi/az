@@ -10,7 +10,7 @@ Welcome! In this very first session you will:
 
 ## ▶️ Run the mini-site locally
 
-Open VS Code, then press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>`</kbd> to pop a terminal.
+Open VS Code, then press <kbd>Ctrl</kbd>+<kbd>~</kbd> to pop a terminal.
 
 ```bash
 # any Python ≥ 3.7 works
@@ -29,8 +29,9 @@ Now visit [http://localhost:8000](http://localhost:8000) and click around (start
 
 | File                | What to explore                                                                        |
 | ------------------- | -------------------------------------------------------------------------------------- |
+| **starter.html**    | starter html file for you, having tailwindcss added. oh yes.                           |
 | **index.html**      | drag a cursor over funky coloured cards; watch hover animation & rounded-corner scale. |
-| **video-demo.html** | double-click the video to pop a friendly alert in Farsi (سلام !).                      |
+| **video-demo.html** | double-click the video to pop a friendly alert in Farsi (سلام !).                       |
 | **js/main.js**      | a *single* helper, intentionally simple—add your own experiments here.                 |
 | **assignment.md**   | your research task for next week.                                                      |
 
