@@ -33,6 +33,6 @@ Now visit [http://localhost:8000](http://localhost:8000) and click around (start
 | **[index.html](./index.html)**      | drag a cursor over funky coloured cards; watch hover animation & rounded-corner scale. |
 | **[video-demo.html](video-demo.html)** | double-click the video to pop a friendly alert in Farsi (سلام !).                       |
 | **[js/main.js](./js/main.js)**      | a *single* helper, intentionally simple—add your own experiments here.                 |
-| **[assignment.md](./assignment.md)**   | your research task for next session (god knows when it will be so do it asap before it't too late).                                                      |
+| **[assignment.md](./assignment.md)**   | your research task for next session (god knows when it will be so do it asap before it's too late).                                                      |
 
 Have fun & DM me if you get stuck. 🙂
